@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714917907 source:d:\programming\cpe-lab 2\graphadt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1714915216 source:d:\programming\cpe-lab 2\graphadt\graph.c
+
+1714914963 d:\programming\cpe-lab 2\graphadt\main.h
+

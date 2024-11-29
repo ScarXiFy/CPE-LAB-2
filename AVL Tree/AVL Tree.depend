@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1713104125 source:d:\programming\cpe-lab 2\avl tree\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"main.h"
+
+1713107611 d:\programming\cpe-lab 2\avl tree\main.h
+
+1712932755 source:d:\programming\cpe-lab 2\avl tree\add.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+
+1712932777 source:d:\programming\cpe-lab 2\avl tree\balance.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+
+1712932793 source:d:\programming\cpe-lab 2\avl tree\delete.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+
+1712932807 source:d:\programming\cpe-lab 2\avl tree\search.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+
+1712932821 source:d:\programming\cpe-lab 2\avl tree\traverse.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+

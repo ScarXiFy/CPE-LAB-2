@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1710765112 source:d:\school\cpe-lab 2\recursion\factorial.c
+	"factorial.h"
+
+1710765111 d:\school\cpe-lab 2\recursion\factorial.h
+
+1710765036 source:d:\school\cpe-lab 2\recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"factorial.h"
+	"fibonacci.h"
+	"sum.h"
+
+1710765105 d:\school\cpe-lab 2\recursion\fibonacci.h
+
+1710765122 d:\school\cpe-lab 2\recursion\sum.h
+
+1710765109 source:d:\school\cpe-lab 2\recursion\sum.c
+	"sum.h"
+
+1710765293 source:d:\school\cpe-lab 2\recursion\fibonacci.c
+	"fibonacci.h"
+

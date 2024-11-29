@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1713108950 source:d:\programming\cpe-lab 2\heap tree\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713109054 d:\programming\cpe-lab 2\heap tree\main.h
+
+1713108949 source:d:\programming\cpe-lab 2\heap tree\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713108946 source:d:\programming\cpe-lab 2\heap tree\display.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713108948 source:d:\programming\cpe-lab 2\heap tree\heapify.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713108945 source:d:\programming\cpe-lab 2\heap tree\traverse.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713108987 source:d:\programming\cpe-lab 2\heap tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+

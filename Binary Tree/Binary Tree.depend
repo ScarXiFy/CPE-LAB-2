@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1713106553 source:d:\programming\cpe-lab 2\binary tree\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"main.h"
+
+1713106655 d:\programming\cpe-lab 2\binary tree\main.h
+
+1713106657 source:d:\programming\cpe-lab 2\binary tree\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"main.h"
+
+1713105098 source:d:\programming\cpe-lab 2\binary tree\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"main.h"
+
+1713106676 source:d:\programming\cpe-lab 2\binary tree\traverse.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"main.h"
+
