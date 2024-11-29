@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1714317056 source:d:\programming\cpe-lab 2\revised\fa-le09-ind-bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+
+1714316807 source:d:\programming\cpe-lab 2\revised\fa-le09-ind-bst\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+
+1714317001 d:\programming\cpe-lab 2\revised\fa-le09-ind-bst\main.h
+
+1714316796 source:d:\programming\cpe-lab 2\revised\fa-le09-ind-bst\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+
+1714316849 source:d:\programming\cpe-lab 2\revised\fa-le09-ind-bst\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+
+1714317001 source:d:\programming\cpe-lab 2\revised\fa-le09-ind-bst\traverse.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"main.h"
+

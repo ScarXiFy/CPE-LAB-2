@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1709040957 source:d:\school\cpe-lab 2\fa-le07-ind-repetition\main.c
+	<stdio.h>
+
+1709094818 source:c:\users\johne\downloads\programming\fa-le07-ind-repetition\factorial.c
+	<stdio.h>
+	"main.h"
+
+1709094820 c:\users\johne\downloads\programming\fa-le07-ind-repetition\main.h
+
+1709094816 source:c:\users\johne\downloads\programming\fa-le07-ind-repetition\fibonacci.c
+	<stdio.h>
+	"main.h"
+
+1709094779 source:c:\users\johne\downloads\programming\fa-le07-ind-repetition\main.c
+	<stdio.h>
+	"main.h"
+
+1709094819 source:c:\users\johne\downloads\programming\fa-le07-ind-repetition\power.c
+	<stdio.h>
+	"main.h"
+
+1709099686 source:z:\fa-le07-ind-repetition\factorial.c
+	<stdio.h>
+	"main.h"
+
+1709099909 z:\fa-le07-ind-repetition\main.h
+
+1709099694 source:z:\fa-le07-ind-repetition\fibonacci.c
+	<stdio.h>
+	"main.h"
+
+1709095169 source:z:\fa-le07-ind-repetition\main.c
+	<stdio.h>
+	"main.h"
+
+1709099678 source:z:\fa-le07-ind-repetition\power.c
+	<stdio.h>
+	"main.h"
+

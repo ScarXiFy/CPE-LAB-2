@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1713766305 source:z:\fa-le11-ind-trie (lauron)\addword.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+
+1713770274 z:\fa-le11-ind-trie (lauron)\main.h
+
+1713766298 source:z:\fa-le11-ind-trie (lauron)\deleteword.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+
+1713770585 source:z:\fa-le11-ind-trie (lauron)\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+
+1713771025 source:z:\fa-le11-ind-trie (lauron)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+
+1713771017 source:z:\fa-le11-ind-trie (lauron)\showtrie.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+

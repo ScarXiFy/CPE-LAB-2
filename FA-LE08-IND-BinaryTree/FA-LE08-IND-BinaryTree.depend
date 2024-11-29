@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1714318228 source:d:\programming\cpe-lab 2\revised\fa-le08-ind-binarytree\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"main.h"
+
+1714318239 d:\programming\cpe-lab 2\revised\fa-le08-ind-binarytree\main.h
+
+1714318239 source:d:\programming\cpe-lab 2\revised\fa-le08-ind-binarytree\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"main.h"
+
+1714317806 source:d:\programming\cpe-lab 2\revised\fa-le08-ind-binarytree\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"main.h"
+
+1714317878 source:d:\programming\cpe-lab 2\revised\fa-le08-ind-binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"main.h"
+
+1714318149 source:d:\programming\cpe-lab 2\revised\fa-le08-ind-binarytree\traverse.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"main.h"
+

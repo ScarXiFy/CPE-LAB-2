@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1712562169 source:z:\fa-le10-ind-heapadt\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1712562942 z:\fa-le10-ind-heapadt\main.h
+
+1712562170 source:z:\fa-le10-ind-heapadt\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1712562492 source:z:\fa-le10-ind-heapadt\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1712562502 source:z:\fa-le10-ind-heapadt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1712556973 source:z:\fa-le10-ind-heapadt\shownode.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713891781 source:d:\programming\cpe-lab 2\revised\fa-le10-ind-heapadt\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+
+1713892220 d:\programming\cpe-lab 2\revised\fa-le10-ind-heapadt\main.h
+
+1713891771 source:d:\programming\cpe-lab 2\revised\fa-le10-ind-heapadt\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"main.h"
+
+1713891762 source:d:\programming\cpe-lab 2\revised\fa-le10-ind-heapadt\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713890883 source:d:\programming\cpe-lab 2\revised\fa-le10-ind-heapadt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1713891754 source:d:\programming\cpe-lab 2\revised\fa-le10-ind-heapadt\printtree.c
+	<stdio.h>
+	<math.h>
+	"main.h"
+

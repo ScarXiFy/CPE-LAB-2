@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1708501458 source:z:\fa-le06-grp3-sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"sortheader.h"
+
+1708501366 z:\fa-le06-grp3-sort\sortheader.h
+
+1708500573 source:z:\fa-le06-grp3-sort\extrafnct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
