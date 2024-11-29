@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1714981937 source:z:\final exam - part 2\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1714981731 z:\final exam - part 2\main.h
+
+1714980197 source:z:\final exam - part 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"main.h"
+
+1714981817 source:z:\final exam - part 2\adjlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1714981780 source:z:\final exam - part 2\adjmatrix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1714981941 source:z:\final exam - part 2\critpath.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1714981877 source:z:\final exam - part 2\paths.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+

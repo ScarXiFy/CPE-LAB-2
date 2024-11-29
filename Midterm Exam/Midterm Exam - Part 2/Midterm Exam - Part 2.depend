@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1709538756 source:z:\midterm exam - part 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"main.h"
+
+1709538715 z:\midterm exam - part 2\main.h
+
+1709539535 source:z:\midterm exam - part 2\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"main.h"
+

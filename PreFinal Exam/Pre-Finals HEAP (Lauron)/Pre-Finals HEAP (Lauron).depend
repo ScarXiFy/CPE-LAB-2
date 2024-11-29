@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1713164844 source:z:\pre-finals heap (lauron)\addnode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+
+1713163677 z:\pre-finals heap (lauron)\main.h
+
+1713164758 source:z:\pre-finals heap (lauron)\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+
+1713164906 source:z:\pre-finals heap (lauron)\shownode.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+
+1713163693 source:z:\pre-finals heap (lauron)\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+
+1713165470 source:z:\pre-finals heap (lauron)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"main.h"
+
