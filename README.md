@@ -10,10 +10,3 @@ BS CpE - 1
 
 
 CPE 1202L - DATA STRUCTURES AND ALGORITHMS
-
-
-
-
-___________________________________________________________________
-should i add my premidterm, midterm, prefinal and final exam files?
-___________________________________________________________________
