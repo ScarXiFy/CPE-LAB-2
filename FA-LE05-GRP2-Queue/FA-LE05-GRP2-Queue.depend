@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1707893908 source:z:\fa-le05-grp2-queue\dequeue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"queueDLL.h"
+
+1707893857 z:\fa-le05-grp2-queue\queuedll.h
+
+1707893941 source:z:\fa-le05-grp2-queue\show.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"queueDLL.h"
+
+1707893918 source:z:\fa-le05-grp2-queue\enqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"queueDLL.h"
+
+1707893583 source:z:\fa-le05-grp2-queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"queueDLL.h"
+
+1707893589 source:z:\fa-le05-grp2-queue\queuedll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"queueDLL.h"
+

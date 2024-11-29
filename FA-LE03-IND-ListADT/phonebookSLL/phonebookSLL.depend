@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1707038677 source:d:\school\cpe lab 2\fa-le03-ind-listadt\phonebooksll\appendsll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707053417 d:\school\cpe lab 2\fa-le03-ind-listadt\phonebooksll\phonebooksll.h
+
+1707052821 source:d:\school\cpe lab 2\fa-le03-ind-listadt\phonebooksll\browsesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707052836 source:d:\school\cpe lab 2\fa-le03-ind-listadt\phonebooksll\changesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707056272 source:d:\school\cpe lab 2\fa-le03-ind-listadt\phonebooksll\deletesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707053152 source:d:\school\cpe lab 2\fa-le03-ind-listadt\phonebooksll\phonebooksll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707058283 source:c:\users\johne\downloads\programming\fa-le03-ind-listadt\phonebooksll\appendsll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707110516 c:\users\johne\downloads\programming\fa-le03-ind-listadt\phonebooksll\phonebooksll.h
+
+1707109964 source:c:\users\johne\downloads\programming\fa-le03-ind-listadt\phonebooksll\browsesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707110165 source:c:\users\johne\downloads\programming\fa-le03-ind-listadt\phonebooksll\changesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707109279 source:c:\users\johne\downloads\programming\fa-le03-ind-listadt\phonebooksll\deletesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707110511 source:c:\users\johne\downloads\programming\fa-le03-ind-listadt\phonebooksll\phonebooksll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707111451 source:z:\fa-le03-ind-listadt\phonebooksll\appendsll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707111448 z:\fa-le03-ind-listadt\phonebooksll\phonebooksll.h
+
+1707111450 source:z:\fa-le03-ind-listadt\phonebooksll\changesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707111450 source:z:\fa-le03-ind-listadt\phonebooksll\deletesll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+
+1707111446 source:z:\fa-le03-ind-listadt\phonebooksll\phonebooksll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"phonebookSLL.h"
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1707726791 source:z:\fa-le04-ind-stack\fa-le04-ind-stack\pop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"stackSLL.h"
+
+1707726811 z:\fa-le04-ind-stack\fa-le04-ind-stack\stacksll.h
+
+1707726811 source:z:\fa-le04-ind-stack\fa-le04-ind-stack\push.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"stackSLL.h"
+
+1707726580 source:z:\fa-le04-ind-stack\fa-le04-ind-stack\show.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"stackSLL.h"
+
+1707724691 source:z:\fa-le04-ind-stack\fa-le04-ind-stack\stacksll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"stackSLL.h"
+
+1707726762 source:z:\fa-le04-ind-stack\fa-le04-ind-stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"stackSLL.h"
+

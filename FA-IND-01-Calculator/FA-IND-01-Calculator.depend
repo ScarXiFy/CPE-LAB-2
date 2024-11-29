@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1706413068 source:d:\school\cpe lab 2\fa-ind-01-calculator\add.c
+
+1706412125 source:d:\school\cpe lab 2\fa-ind-01-calculator\calc.c
+
+1706418110 source:d:\school\cpe lab 2\fa-ind-01-calculator\div.c
+
+1706413147 source:d:\school\cpe lab 2\fa-ind-01-calculator\mul.c
+
+1706413147 source:d:\school\cpe lab 2\fa-ind-01-calculator\sub.c
+
+1706418892 source:d:\school\cpe lab 2\fa-ind-01-calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1706417696 d:\school\cpe lab 2\fa-ind-01-calculator\calc.h
+
+1706507407 source:z:\fa-ind-01-calculator\add.c
+
+1706507426 source:z:\fa-ind-01-calculator\div.c
+
+1706507446 source:z:\fa-ind-01-calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1706507818 z:\fa-ind-01-calculator\calc.h
+
+1706507452 source:z:\fa-ind-01-calculator\mul.c
+
+1706507457 source:z:\fa-ind-01-calculator\sub.c
+
+1706507639 source:z:\fa-ind-01-calculator\calc.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
